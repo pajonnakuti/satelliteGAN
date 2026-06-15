@@ -170,4 +170,4 @@ Each script saves outputs to `outputs/<script_name>/` — rolling predictions CS
 
 ---
 
-*Project completed May 2026 · INCOIS, Hyderabad · ICFAI Foundation for Higher Education*
+*Project completed June 2026 · INCOIS, Hyderabad · ICFAI Foundation for Higher Education*
