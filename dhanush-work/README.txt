@@ -44,10 +44,6 @@ ROOT FILES (production scripts + ConvLSTM checkpoint):
    Required by Script 69 (and validate_argo). Size: 1.89 MB.
    Original location: 63_convlstm_v2finetune/66_convlstm_7day_stage2_final/
 
-6. WHY_WE_STOPPED_ARGUING.md
-   Advisor discussion memo: why we stopped trying to "beat" the leaderboard
-   and focused on documenting the existing results instead.
-
 
 SUBFOLDER validation_data/ (Argo float validation pipeline):
 
@@ -98,11 +94,7 @@ SUBFOLDER model_comparison/ (multi-model comparison pipeline):
 SUBFOLDER docs/ (important documentation):
 
   Main reports (the formal write-ups):
-  - manuscript-dhanush.md                   8 KB    IEEE-style research manuscript
-  - FINAL_SUBMISSION_REPORT.md            130 KB    Main submission report
-                                                   17 phases, 25 runs, full results
-  - BOOK_CHAPTER.md                      187 KB    Academic book chapter version
-  - CONVLSTM_PROJECT_DOCUMENTATION.md     66 KB    Technical supplement
+  - manuscript-dhanush.md                  18 KB    IEEE-style research manuscript
 
   Supporting docs (summaries and references):
   - EXECUTIVE_SUMMARY.md                    7 KB    One-page high-level summary
@@ -112,7 +104,6 @@ SUBFOLDER docs/ (important documentation):
   - MODEL_COMPARISON.md                     8 KB    Detailed model comparison
   - QUICK_REFERENCE.md                      4 KB    Key metrics at a glance
   - VERIFICATION_PROOFS.md                  9 KB    Source file references for results
-  - SESSION_LOG.md                          6 KB    Development session log
   - KAGGLE_ARGO_SPATIAL_VALIDATION.md       2 KB    Argo validation Kaggle guide
 
 
@@ -213,14 +204,9 @@ DEPENDENCIES
 FURTHER DOCUMENTATION
 ---------------------
 
-  The 13 important docs in this folder's docs/ subfolder cover everything
-  Sir needs. The full gitpush-final/ project (with all 23 docs, 90 result
-  files, 54 scripts) is at:
-    D:\INCOIS-internship\mystuff\gitpush-final\
-  Key entry points there:
-    - gitpush-final/docs/submission/FINAL_SUBMISSION_REPORT.md  (main report)
-    - gitpush-final/docs/submission/BOOK_CHAPTER.md             (academic chapter)
-    - gitpush-final/docs/handoff.md                             (project handoff note)
+  The 8 docs in this folder's docs/ subfolder cover the key project
+  documentation. The full gitpush-final/ project (with all 23 docs, 90
+  result files, 54 scripts) is available locally in the project archive.
 
 
 NOTES

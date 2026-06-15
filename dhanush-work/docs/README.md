@@ -27,27 +27,7 @@ This folder contains all the formal documentation files for the INCOIS internshi
 
 ---
 
-## Main Documentation
 
-The complete technical documentation is in the parent folder:
-
-```
-CONVLSTM_PROJECT_DOCUMENTATION.md
-FINAL_SUBMISSION_REPORT.md
-```
-
-These files contain:
-- Full project overview
-- Methodology (17 phases)
-- All findings (ConvLSTM, Chronos, Granite, PostGain, Ensemble)
-- System architecture
-- Model development timeline
-- Results and performance (25+ run leaderboard)
-- Technical specifications
-- Conclusion and recommendations
-- Appendices
-
----
 
 ## Output Directories
 
